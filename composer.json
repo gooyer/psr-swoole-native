@@ -18,7 +18,7 @@
     },
     "autoload-dev": {
       "psr-4": {
-        "Imefisto\\PsrSwoole\\Testing\\": "tests/"
+        "Gooyer\\PsrSwoole\\Testing\\": "tests/"
       }
     },
     "require": {

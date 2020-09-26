@@ -3,6 +3,6 @@ Get PSR request from Swoole request and allow merging a PSR response into the Sw
 
 Install with:
 
-composer require Gooyer/psr-swoole-native
+composer require gooyer/psr-swoole-native
 
 See how to use it in the examples folder.
