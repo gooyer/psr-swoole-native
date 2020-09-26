@@ -1,15 +1,19 @@
 {
-    "name": "imefisto/psr-swoole-native",
+    "name": "gooyer/psr-swoole-native",
     "authors": [
         {
             "name": "Ignacio El Kadre",
             "email": "imefisto@gmail.com"
-        }
+        },
+        {
+          "name": "Grajewski Łukasz",
+          "email": "grajewski.lukasz@wp.pl"
+      }
     ],
     "license": "MIT",
     "autoload": {
       "psr-4": {
-        "Imefisto\\PsrSwoole\\": "src/"
+        "Gooyer\\PsrSwoole\\": "src/"
       }
     },
     "autoload-dev": {

@@ -1,5 +1,5 @@
 <?php
-namespace Imefisto\PsrSwoole;
+namespace Gooyer\PsrSwoole;
 
 use Psr\Http\Message\ResponseInterface;
 use Swoole\Http\Response;

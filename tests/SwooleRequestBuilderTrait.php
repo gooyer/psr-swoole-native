@@ -1,5 +1,5 @@
 <?php
-namespace Imefisto\PsrSwoole\Testing;
+namespace Gooyer\PsrSwoole\Testing;
 
 use Swoole\Http\Request as SwooleRequest;
 

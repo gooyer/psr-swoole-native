@@ -1,7 +1,7 @@
 <?php
-namespace Imefisto\PsrSwoole\Testing;
+namespace Gooyer\PsrSwoole\Testing;
 
-use Imefisto\PsrSwoole\Request;
+use Gooyer\PsrSwoole\Request;
 use Nyholm\Psr7\Factory\Psr17Factory;
 use Nyholm\Psr7\Uri;
 use Nyholm\Psr7\Stream;
