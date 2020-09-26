@@ -1,5 +1,5 @@
 {
-    "name": "gooyer/psr-swoole-native",
+    "name": "gooyer/swoole-psr7",
     "authors": [
         {
             "name": "Ignacio El Kadre",
